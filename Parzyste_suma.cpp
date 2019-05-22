@@ -1,5 +1,5 @@
-/* Program w petli wczytuje liczby i jezeli sa parzyste sumuje je. Program konczy
-dzialanie, gdy suma przekroczy 50 lub dodane zostanie 10 liczb.*/
+/* Program w pêtli wczytuje liczby i jeœli s¹ parzyste sumuje je. Program koñczy
+dzia³anie, gdy suma przekroczy 50 lub dodane zostanie 10 liczb.*/
 
 # include <iostream>
 
